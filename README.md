@@ -1,3 +1,3 @@
 # Shogird-Ustozdan-Soradi
-## Dasturlashni o’rganishni qachon boshlash kerak?
-### Hozir.
+### Q:Dasturlashni o’rganishni qachon boshlash kerak?
+#### A:Hozir.
