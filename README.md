@@ -51,3 +51,4 @@
 **SH:** Qanday tartibda masala yechish kerak? Leetcodeni easy savollari ham qiyinlik qilyapti. Birdaniga stuck bo'lib qolyapman. Shunaqa vaziyatda nima qilish kerak? Birdaniga javobiga yugurish kerakmi yoki javobi chiqmaguncha o'tiraverish kerakmi?  
 **U:** Umumiy aytganda bir savol ustida 1-2 soatcha vaqt ajratib, undan keyin javobini tekshirib ko'rsa yaxshi bo'ladi. Leetcodeni easy savollari boshida qiyin tuyulishi normal xolat. Easy savollarni yechishda davom etavering. 70-100 easy yechganingizdan keyin mediumga o'tsangiz bo'ladi. Agar umuman yecha olmayotgan bo'lsangiz, balki asosiy bilimlaringiz yetishmayotgandir? Basic algoritmlar va data strukturalarni ko'rib chiqing.
 
+### Credit: [Vohid Karimov](https://github.com/vovopap) (Software Engineer, Google)
